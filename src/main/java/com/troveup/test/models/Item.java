@@ -100,7 +100,7 @@ public class Item
         // com/troveup/test/config/properties/application.properties file
         private final int BUILDER_MAX_ITEMS = 9;
 
-        //Type of items that need to be built.  All, Clothing, Shoes, or Jewelry.  Used to determine the properties
+        //Type of items that need to be built.  All, Rings, Bracelets, or Necklaces.  Used to determine the properties
         //that are pulled from the com/troveup/test/config/properties/application.properties file
         private ITEM_TYPE builderType;
 
