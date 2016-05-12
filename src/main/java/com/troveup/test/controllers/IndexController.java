@@ -49,7 +49,7 @@ public class IndexController {
      * Controller responsible for handling AJAX requests for additional card data.  Will simply return an additional
      * set of card data, similar to what was originally passed, so that the view can be populated with more cards.
      *
-     * @param cardtype Type of card to request.  Can be any of, "all", "clothing", "jewelry", or "shoes".
+     * @param cardtype Type of card to request.  Can be any of, "all", "bracelets", "necklaces", or "rings".
      * @return JSON response with a list of 9 Items.
      */
     @RequestMapping(value = "/cards/{cardtype}", method = {RequestMethod.GET}, headers="Accept=application/json")
