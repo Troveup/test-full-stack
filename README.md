@@ -1,4 +1,4 @@
-## Trove Level Three Front End Developer's Test
+## Trove Full Stack Developer's Test
 
 Requires [Apache Maven](http://maven.apache.org) 3.1 or greater, and JDK 7+ in order to run.
 
